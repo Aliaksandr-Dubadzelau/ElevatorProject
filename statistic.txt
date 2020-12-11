@@ -1,0 +1,2 @@
+Elevator: 01d55b21-0db3-4b27-9c82-6beb795fae4f. Passenger: Yakov. From: 11 floor. To: 14 floor.
+Elevator: 01d55b21-0db3-4b27-9c82-6beb795fae4f. Total passengers: 1
